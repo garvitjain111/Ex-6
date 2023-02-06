@@ -1,0 +1,7 @@
+garvitjain@Garvits-MacBook-Air Exercise-6 % git reset HEAD~ --soft
+garvitjain@Garvits-MacBook-Air Exercise-6 % git status
+On branch master
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	new file:   file3.txt
+
